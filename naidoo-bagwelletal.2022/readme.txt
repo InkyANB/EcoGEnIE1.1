@@ -3,7 +3,7 @@
 ################################################################
 
 For:
-'A diatom extension of the EcoGEnIE Earth system model - DiatomEcoGEnIE.v0'
+'A diatom extension of the cGEnIE Earth system model - EcoGEnIE 2.0'
 Aaron A. Naidoo-Bagwell, Fanny M. Monteiro, Katharine R. Hendry, Scott Burgan, Jamie D. Wilson, Ben A. Ward, Andy Ridgwell and Daniel J. Conley
 
 ################################################################
@@ -23,9 +23,9 @@ The commands to run the three model configurations are listed as follows:
 
 Initial new physics spin :
 
-./runmuffin.sh muffin.CB.worlg4.BASESFeTDTLSi.Albani MS/Naidoo-Bagwelletal.2022 diat.worjh2.albani 20,000
+./runmuffin.sh muffin.CB.worlg4.BASESFeTDTLSi.Albani MS/Naidoo-Bagwelletal.2022 diat.worjh2.albani 20000
 
-(1) DiatomEcoGEnIE 2,000 year run 
+(1) EcoGEnIE 1.0 2,000 year run 
 
 ./runmuffin.sh muffin.CBE.worjh2.BASESFeTDTLSi.Albani MS/Naidoo-Bagwelletal.2022 DiatomEcoGEnIE 2000 diat.worjh2.albani
 
